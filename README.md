@@ -9,7 +9,7 @@ Added commands for properly configuring Cloud Run on a new GCP Project.
 ```lab2-cr-service@PROJECT_ID.iam.gserviceaccount.com```
 
 ### Add .env back to session
-source .env
+```source .env```
 
 ### Grant storage object viewer role to the service account
 ```
